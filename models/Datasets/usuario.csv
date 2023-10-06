@@ -1,0 +1,233 @@
+userid,cluster,viajes,ciclovia,locha,disciplina,silencio,tipofamilia,actividad,salir,estilo,vivienda,estrato,sueldo,amigos,trabajo,pyState,fpy,edad
+10,,1,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,c,,WFH,,,32
+11,,1,,,,,sin hijos,CINE,INDOOR,desorden,CASA,Estrato 1,c,,OFICINA,,,34
+9,,0,,,,,sin hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 4,c,,OFICINA,,,36
+16,,,,,,,,,,,,,,,,,0,
+15,,0,,,,,sin hijos,CINE,INDOOR,orden,CASA,Estrato 1,a,,OFICINA,,,36
+18,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,c,,WFH,,,41
+17,,1,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 6,b,,OFICINA,,,40
+20,,1,,,,,hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 1,b,,OFICINA,,,25
+21,,1,,,,,hijos,NETFLIX,OUTDOOR,desorden,CASA,Estrato 4,a,,WFH,,,22
+22,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 4,c,,WFH,,,55
+23,,0,,,,,sin hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 3,a,,WFH,,,19
+25,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 3,c,,WFH,,,37
+24,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,WFH,,,39
+26,,1,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,CASA,Estrato 3,c,,WFH,,,33
+27,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,a,,WFH,,,59
+28,,1,,,,,hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 5,c,,OFICINA,,,55
+31,,1,,,,,sin hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 3,c,,WFH,,,32
+29,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,c,,WFH,,,42
+32,,0,,,,,sin hijos,CINE,INDOOR,desorden,APARTAMENTO,Estrato 3,c,,WFH,,,38
+33,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 4,b,,WFH,,,30
+34,,0,,,,,hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 4,b,,WFH,,,26
+35,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 1,a,,OFICINA,,,23
+36,,1,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,a,,WFH,,,62
+37,,,,,,,,,,,,,,,,,0,
+38,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 4,b,,WFH,,,62
+39,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,c,,WFH,,,33
+40,,,,,,,,,,,,,,,,,0,
+41,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,c,,WFH,,,27
+12,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 4,c,,WFH,,,33
+42,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,c,,WFH,,,36
+43,,1,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,b,,WFH,,,32
+44,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 5,b,,WFH,,,29
+45,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 4,c,,WFH,,,39
+46,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 2,b,,WFH,,,24
+47,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,c,,WFH,,,30
+48,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 4,c,,WFH,,,36
+49,,0,,,,,hijos,NETFLIX,OUTDOOR,desorden,APARTAMENTO,Estrato 3,b,,WFH,,,33
+51,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 2,b,,WFH,,,32
+52,,0,,,,,hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,30
+53,,1,,,,,hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 4,c,,WFH,,,33
+54,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,21
+55,,1,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,c,,WFH,,,36
+56,,,,,,,,,,,,,,,,,0,
+58,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 2,a,,WFH,,,36
+59,,,,,,,,,,,,,,,,,0,
+60,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,a,,WFH,,,57
+61,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 3,b,,WFH,,,31
+62,,1,,,,,hijos,NETFLIX,OUTDOOR,desorden,APARTAMENTO,Estrato 4,c,,WFH,,,26
+63,,,,,,,,,,,,,,,,,0,
+64,,,,,,,,,,,,,,,,,0,
+65,,,,,,,,,,,,,,,,,0,
+66,,,,,,,,,,,,,,,,,0,
+67,,0,,,,,hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 4,c,,OFICINA,,,51
+71,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,c,,OFICINA,,,31
+69,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 5,c,,OFICINA,,,25
+70,,0,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,CASA,Estrato 3,a,,OFICINA,,,21
+68,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,a,,OFICINA,,,22
+72,,,,,,,,,,,,,,,,,0,
+73,,0,,,,,sin hijos,CINE,INDOOR,orden,CASA,Estrato 2,a,,WFH,,,23
+74,,0,,,,,sin hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 2,b,,WFH,,,28
+75,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,b,,WFH,,,43
+78,,,,,,,,,,,,,,,,,0,
+79,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,21
+80,,0,,,,,hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 3,b,,OFICINA,,,22
+81,,,,,,,,,,,,,,,,,0,
+82,,1,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 6,c,,WFH,,,35
+84,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,c,,WFH,,,62
+85,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,b,,WFH,,,28
+83,,1,,,,,hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 4,c,,OFICINA,,,45
+86,,0,,,,,hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 5,c,,WFH,,,40
+87,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,b,,WFH,,,29
+88,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 4,b,,WFH,,,23
+89,,1,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 5,b,,WFH,,,42
+91,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,a,,WFH,,,21
+92,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,a,,OFICINA,,,23
+93,,1,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,CASA,Estrato 3,c,,OFICINA,,,43
+94,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,21
+95,,1,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,a,,WFH,,,24
+96,,,,,,,,,,,,,,,,,0,
+97,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,21
+90,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,a,,WFH,,,22
+98,,1,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,b,,WFH,,,20
+99,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,c,,WFH,,,30
+102,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 4,a,,OFICINA,,,20
+103,,0,,,,,sin hijos,CINE,INDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,21
+101,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 2,a,,WFH,,,19
+105,,,,,,,,,,,,,,,,,0,
+104,,0,,,,,hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 3,b,,OFICINA,,,55
+106,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,21
+107,,,,,,,,,,,,,,,,,0,
+108,,1,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 5,a,,WFH,,,23
+109,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,22
+110,,,,,,,,,,,,,,,,,0,
+111,,0,,,,,hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 4,a,,OFICINA,,,22
+112,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 5,a,,OFICINA,,,20
+114,,,,,,,,,,,,,,,,,0,
+113,,0,,,,,hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 4,a,,WFH,,,22
+115,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 3,b,,WFH,,,23
+117,,,,,,,,,,,,,,,,,0,
+118,,,,,,,,,,,,,,,,,0,
+119,,,,,,,,,,,,,,,,,0,
+120,,,,,,,,,,,,,,,,,0,
+159,,1,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,a,,WFH,,,21
+116,,0,,,,,hijos,NETFLIX,INDOOR,desorden,CASA,Estrato 4,a,,OFICINA,,,19
+121,,,,,,,,,,,,,,,,,0,
+122,,,,,,,,,,,,,,,,,0,
+123,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,WFH,,,19
+124,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,22
+125,,1,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 6,c,,WFH,,,60
+126,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,c,,OFICINA,,,59
+127,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,WFH,,,25
+129,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,21
+130,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,21
+131,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 4,a,,OFICINA,,,20
+132,,0,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,a,,OFICINA,,,19
+134,,0,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 2,b,,OFICINA,,,22
+135,,,,,,,,,,,,,,,,,0,
+136,,1,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,a,,WFH,,,19
+137,,1,,,,,hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 2,a,,OFICINA,,,39
+138,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,20
+139,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,26
+140,,0,,,,,hijos,CINE,OUTDOOR,desorden,CASA,Estrato 3,b,,OFICINA,,,21
+141,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 4,a,,OFICINA,,,21
+142,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 2,b,,OFICINA,,,22
+143,,,,,,,,,,,,,,,,,0,
+144,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,a,,WFH,,,20
+145,,1,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,21
+147,,0,,,,,sin hijos,CINE,INDOOR,desorden,APARTAMENTO,Estrato 5,a,,OFICINA,,,19
+146,,0,,,,,hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,20
+148,,1,,,,,sin hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 3,a,,OFICINA,,,20
+149,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,21
+150,,,,,,,,,,,,,,,,,0,
+152,,1,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,WFH,,,21
+153,,0,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,19
+151,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,19
+154,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 5,b,,OFICINA,,,23
+156,,1,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 5,a,,OFICINA,,,20
+157,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,21
+158,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,a,,WFH,,,56
+160,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,b,,WFH,,,20
+162,,0,,,,,sin hijos,CINE,OUTDOOR,desorden,CASA,Estrato 3,a,,OFICINA,,,19
+163,,,,,,,,,,,,,,,,,0,
+164,,0,,,,,hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 3,c,,WFH,,,27
+165,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 5,a,,OFICINA,,,22
+167,,0,,,,,sin hijos,CINE,INDOOR,desorden,APARTAMENTO,Estrato 3,a,,OFICINA,,,20
+166,,0,,,,,sin hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 3,b,,WFH,,,21
+168,,0,,,,,hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 2,a,,OFICINA,,,20
+161,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,b,,WFH,,,19
+171,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,c,,OFICINA,,,24
+170,,0,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,c,,OFICINA,,,38
+173,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,33
+174,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 5,b,,OFICINA,,,21
+169,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,20
+177,,,,,,,,,,,,,,,,,0,
+175,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,20
+172,,0,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,APARTAMENTO,Estrato 3,b,,OFICINA,,,24
+178,,,,,,,,,,,,,,,,,0,
+179,,,,,,,,,,,,,,,,,0,
+180,,,,,,,,,,,,,,,,,0,
+182,,,,,,,,,,,,,,,,,0,
+183,,,,,,,,,,,,,,,,,0,
+185,,1,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,20
+186,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,20
+184,,0,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,CASA,Estrato 3,a,,OFICINA,,,20
+187,,1,,,,,sin hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 1,a,,WFH,,,23
+189,,1,,,,,hijos,CINE,INDOOR,orden,APARTAMENTO,Estrato 3,c,,OFICINA,,,47
+181,,1,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 3,a,,WFH,,,20
+190,,0,,,,,hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 2,b,,OFICINA,,,21
+188,,1,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,APARTAMENTO,Estrato 4,b,,OFICINA,,,24
+191,,,,,,,,,,,,,,,,,0,
+192,,0,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,APARTAMENTO,Estrato 3,a,,OFICINA,,,21
+193,,1,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 4,b,,WFH,,,19
+196,,1,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 4,a,,WFH,,,20
+194,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 2,a,,OFICINA,,,21
+197,,,,,,,,,,,,,,,,,0,
+198,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,19
+199,,1,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,a,,WFH,,,19
+200,,,,,,,,,,,,,,,,,0,
+201,,1,,,,,hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,65
+203,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,27
+204,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,29
+251,,,,,,,,,,,,,,,,,0,
+205,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,24
+206,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,50
+207,,0,,,,,sin hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 3,a,,OFICINA,,,27
+208,,,,,,,,,,,,,,,,,0,
+209,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,24
+210,,0,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,22
+212,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,30
+213,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,31
+214,,1,,,,,hijos,NETFLIX,OUTDOOR,orden,APARTAMENTO,Estrato 2,a,,OFICINA,,,25
+215,,0,,,,,hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,a,,WFH,,,26
+216,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 2,b,,OFICINA,,,24
+217,,1,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,36
+218,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,38
+220,,,,,,,,,,,,,,,,,0,
+219,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,19
+221,,0,,,,,hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,b,,WFH,,,25
+222,,1,,,,,hijos,CINE,INDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,30
+223,,,,,,,,,,,,,,,,,0,
+224,,,,,,,,,,,,,,,,,0,
+225,,,,,,,,,,,,,,,,,0,
+227,,1,,,,,hijos,CINE,OUTDOOR,orden,CASA,Estrato 2,a,,OFICINA,,,23
+228,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,22
+230,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,22
+231,,,,,,,,,,,,,,,,,0,
+229,,0,,,,,hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,30
+232,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 2,b,,WFH,,,28
+233,,1,,,,,sin hijos,CINE,INDOOR,orden,CASA,Estrato 2,b,,OFICINA,,,27
+234,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,22
+236,,,,,,,,,,,,,,,,,0,
+235,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,a,,OFICINA,,,51
+237,,0,,,,,hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,b,,OFICINA,,,46
+238,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,APARTAMENTO,Estrato 3,a,,WFH,,,22
+239,,,,,,,,,,,,,,,,,0,
+240,,0,,,,,hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,b,,OFICINA,,,23
+241,,,,,,,,,,,,,,,,,0,
+242,,0,,,,,sin hijos,CINE,OUTDOOR,orden,APARTAMENTO,Estrato 3,a,,OFICINA,,,19
+244,,,,,,,,,,,,,,,,,0,
+245,,0,,,,,sin hijos,NETFLIX,OUTDOOR,orden,CASA,Estrato 3,a,,WFH,,,19
+246,,,,,,,,,,,,,,,,,0,
+247,,0,,,,,sin hijos,NETFLIX,OUTDOOR,desorden,CASA,Estrato 2,b,,OFICINA,,,32
+248,,,,,,,,,,,,,,,,,0,
+249,,0,,,,,sin hijos,CINE,OUTDOOR,desorden,CASA,Estrato 3,a,,OFICINA,,,19
+250,,,,,,,,,,,,,,,,,0,
+252,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 4,a,,WFH,,,22
+253,,0,,,,,sin hijos,NETFLIX,INDOOR,desorden,APARTAMENTO,Estrato 5,b,,WFH,,,23
+256,,1,,,,,sin hijos,CINE,OUTDOOR,desorden,APARTAMENTO,Estrato 4,b,,WFH,,,22
+255,,0,,,,,sin hijos,CINE,OUTDOOR,orden,CASA,Estrato 3,a,,OFICINA,,,20
+257,,0,,,,,hijos,NETFLIX,INDOOR,orden,CASA,Estrato 3,b,,WFH,,,21
+258,,,,,,,,,,,,,,,,,0,
+259,,0,,,,,sin hijos,NETFLIX,INDOOR,orden,CASA,Estrato 2,a,,OFICINA,,,19

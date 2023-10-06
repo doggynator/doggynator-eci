@@ -1,0 +1,80 @@
+
+<section class="py-1 bg-gray-100 shadow">
+  <div class="container">
+    <h1>Queremos saber mas a cerca de ti</h1>
+    <p class="lead mb-5">Queremos invitarlo a formar parte de nuestra comunidad compartiendo más acerca de usted. Por favor elija la opción que mejor refleje o defina tu sentir o situación actual</p>
+    <div id="optionsId" class=" row mx-auto">
+      <!-- venue item-->
+      <div class="col-sm-6 col-lg-6 mb-5 hover-animate" data-marker-id="59c0c8e33b1527bfe2abaf92">
+        <div class="card h-100 border-0 shadow">
+          <div id="imgAId" class="card-img-top overflow-hidden dark-overlay bg-cover" style="min-height: 300px;">
+            <div id="favRowIdA" class="card-img-overlay-bottom d-flex justify-content-between align-items-center">
+              <div class="badge badge-transparent badge-pill px-3 py-2 ">{{imgOptA}}</div>
+              <a class="aherit position-relative z-index-40" role="button" (click)="onClick(0)" >
+                <i class="bi bi-heart-fill"></i>
+              </a>
+            </div>
+          </div>
+          <div id="cardBodyIdA" class="card-body">
+            <p class="text-sm text-muted mb-3"> {{imgDescA}} </p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-6 col-lg-6 mb-5 hover-animate" data-marker-id="59c0c8e33b1527bfe2abaf92">
+        <div class="card h-100 border-0 shadow">
+          <div id="imgBId" class="card-img-top overflow-hidden dark-overlay bg-cover" style="min-height: 300px;">
+            <div id="favRowIdB" class="card-img-overlay-bottom d-flex justify-content-between align-items-center">
+              <div class="badge badge-transparent badge-pill px-3 py-2 " >{{imgOptB}}</div>
+              <a class="aherit position-relative z-index-40" role="button" (click)="onClick(1)">
+                <i class="bi bi-heart-fill"></i>
+              </a>
+            </div>
+          </div>
+          <div id="cardBodyIdB" class="card-body">
+            <p class="text-sm text-muted mb-3"> {{imgDescB}} </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div id="formId" class="row mx-auto">
+      <div class="col-sm-9">
+        <h5>Detalles Personales</h5>
+      </div>
+      <form name="form" action="#" class="needs-validation" novalidate>
+        <div class="row pt-4">
+          <div class="mb-4 col-md-6">
+            <label class="form-label" for="estratoIn">Estrato</label>
+            <select id="estratoId" class="form-control" name="estrato" [(ngModel)]="form.estrato">
+              <option selected>Seleccione una opción</option>
+              <option>Estrato 1</option>
+              <option>Estrato 2</option>
+              <option>Estrato 3</option>
+              <option>Estrato 4</option>
+              <option>Estrato 5</option>
+              <option>Estrato 6</option>
+            </select>
+          </div>
+          <div class="mb-4 col-md-6">
+            <label class="form-label" for="estratoId">Rango salarial</label>
+            <select id="estratoId" class="form-control" name="salario" [(ngModel)]="form.salario">
+              <option selected>Seleccione una opción</option>
+              <option>0 -1.000.000</option>
+              <option>1.000.001 - 5.000.000</option>
+              <option>mayor a 5.000.000</option>
+            </select>
+          </div>
+          <div class="mb-4 col-md-6">
+            <label class="form-label" for="edad">Edad</label>
+            <input type="number" class="form-control" id="edad" name="edad" min="18" max="80" required  [(ngModel)]="form.edad">
+          </div>
+          <div class="mb-4 col-md-6">
+            <input type="checkbox" class="form-check-input" id="viajaId" name="viaja" [(ngModel)]="form.viaja">
+            <label class="form-label" for="viajaId">Viajas con frecuencia?</label>
+          </div>
+        </div>
+        <button class="btn btn-outline-primary mb-4" type="submit" (click)="callRandomDogs()">Siguiente</button>
+      </form>
+    </div>
+  </div>
+  </section>

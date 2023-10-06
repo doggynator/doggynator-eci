@@ -1,0 +1,78 @@
+server:
+  ssl:
+    key-store: classpath:doggynator.p12
+    key-store-password: doggynator
+    key-store-type: pkcs12
+    key-password: doggynator
+  port: 8443
+spring:
+  jpa:
+    properties:
+      hibernate:
+        jdbc:
+          lob:
+            non_contextual_creation: 'true'
+    show-sql: 'true'
+    database: POSTGRESQL
+    hibernate:
+      ddl-auto: update #change to `none` on prod
+  security:
+    debug: true
+    oauth2:
+      client:
+        registration:
+          facebook:
+            clientId: '488748166430415'
+            clientSecret: 9016a9d049c14828f956eb811ff79ccc
+        provider:
+          facebook:
+            user-info-uri: https://graph.facebook.com/me?fields=id,first_name,last_name,name,picture,short_name
+  datasource:
+    password: secret
+    platform: postgres
+    url: jdbc:postgresql://localhost:5432/doggynator
+    username: app
+app:
+  auth:
+    adminEmail: admin@doggynator.com
+    adminPass: '@dmin0'
+    jwtCookieName: doggynator
+    jwtRefreshCookieName: doggynator-refresh
+    tokenExpirationMsec: '864000000'
+    tokenRefreshExpirationMsec: '864000000'
+    tokenSecret: CiBfX19fX19fICAgIF9fX19fXyAgICAgX19fX19fXyAgIF9fX19fX18gX19fXyAgICBfX19fIC5fXyAgIF9fLiAgICAgIF9fXyAgICAgIC5fX19fX19fX19fXy4gIF9fX19fXyAgIC5fX19fX18gICAgICAKfCAgICAgICBcICAvICBfXyAgXCAgIC8gIF9fX19ffCAvICBfX19fX3xcICAgXCAgLyAgIC8gfCAgXCB8ICB8ICAgICAvICAgXCAgICAgfCAgICAgICAgICAgfCAvICBfXyAgXCAgfCAgIF8gIFwgICAgIAp8ICAuLS0uICB8fCAgfCAgfCAgfCB8ICB8ICBfXyAgfCAgfCAgX18gICBcICAgXC8gICAvICB8ICAgXHwgIHwgICAgLyAgXiAgXCAgICBgLS0tfCAgfC0tLS1gfCAgfCAgfCAgfCB8ICB8XykgIHwgICAgCnwgIHwgIHwgIHx8ICB8ICB8ICB8IHwgIHwgfF8gfCB8ICB8IHxfIHwgICBcXyAgICBfLyAgIHwgIC4gYCAgfCAgIC8gIC9fXCAgXCAgICAgICB8ICB8ICAgICB8ICB8ICB8ICB8IHwgICAgICAvICAgICAKfCAgJy0tJyAgfHwgIGAtLScgIHwgfCAgfF9ffCB8IHwgIHxfX3wgfCAgICAgfCAgfCAgICAgfCAgfFwgICB8ICAvICBfX19fXyAgXCAgICAgIHwgIHwgICAgIHwgIGAtLScgIHwgfCAgfFwgIFwtLS0tLgp8X19fX19fXy8gIFxfX19fX18vICAgXF9fX19fX3wgIFxfX19fX198ICAgICB8X198ICAgICB8X198IFxfX3wgL19fLyAgICAgXF9fXCAgICAgfF9ffCAgICAgIFxfX19fX18vICB8IF98IGAuX19fX198CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKJHthcHBsaWNhdGlvbi50aXRsZX0gJHthcHBsaWNhdGlvbi52ZXJzaW9ufQoK
+  oauth2:
+    authorizedRedirectUris: https://cb94-186-155-204-216.au.ngrok.io,https://e988-186-155-204-216.ngrok.io,https://doggynator.alfonsuarez.com:8443/oauth2/redirect,https://doggynator.alfonsuarez.com/oauth2/redirect,https://doggynator.alfonsuarez.com/login,http://doggynator.alfonsuarez.com/oauth2/redirect,http://doggynator.alfonsuarez.com/login,http://localhost:8080/oauth2/redirect,http://localhost:4200/oauth2/redirect,http://localhost/oauth2/redirect,http://localhost/login
+  facebook:
+    graph_api:
+      server: https://graph.facebook.com
+      me: v14.0/me
+      meFields: id,name,birthday,age_range,email,gender
+      groups: v14.0/me/groups
+      groupsFields: name,description,purpose
+      groupsLimit: 1000
+      feed: v14.0/me/feed
+      feedFields: place,name,message,message_tags,created_time
+      feedSince: 2022-01-01
+      feedLimit: 1000
+  model:
+    propertiesHost: http://127.0.0.1:5000
+    propertiesUri: getProperties
+    uriModel: predictLightGBMDogs
+logging:
+  level:
+    com:
+      doggynator: INFO
+    org: INFO
+      #springframework: DEBUG
+      #hibernate:
+      #  SQL: INFO
+      #  type: INFO
+  file:
+    path: .
+    name: doggynator.log
+javax:
+  persistence:
+    schema-generation:
+      database:
+        action: 'update'

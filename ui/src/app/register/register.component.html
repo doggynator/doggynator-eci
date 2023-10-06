@@ -1,0 +1,131 @@
+<div *ngIf="isLoading" class="text-center overlay spinner-wrapper flex">
+  <div class="spinner-border text-warning my-auto" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
+<div class="container">
+<div class="container-fluid px-3">
+  <div class="row min-vh-100">
+    <div class="col-md-8 col-lg-6 col-xl-7 d-flex align-items-center">
+      <div class="w-100 py-5 px-md-5 px-xxl-6 position-relative">
+        <div class="mb-4"><img class="img-fluid mb-4" src="assets/img/logo.png" alt="..." style="max-width: 4rem;">
+          <h2>Inscribete</h2>
+          <p class="text-muted">Los ojos de un animal tienen el poder de hablar un gran lenguaje - Martin Buber</p>
+        </div>
+        <form class="form-validate" *ngIf="!isSuccessful" name="form" (ngSubmit)="f.form.valid && onSubmit()" #f="ngForm" >
+          <div class="form-group mb-4">
+            <label class="form-label" for="username">Nombre</label>
+            <input
+              type="text"
+              class="form-control "
+              name="username"
+              placeholder="Usuario"
+              [(ngModel)]="form.username"
+              required
+              minlength="3"
+              maxlength="20"
+              #username="ngModel"
+              [ngClass]="{ 'is-invalid': f.submitted && username.errors }"
+            />
+            <div class="invalid-feedback" *ngIf="username.errors && f.submitted">
+              <div *ngIf="username.errors['required']">Nombre es requerido</div>
+              <div *ngIf="username.errors['minlength']">
+                Nombre debe tener al menos 3 caracteres
+              </div>
+              <div *ngIf="username.errors['maxlength']">
+                Nombre no debe tener m&aacute;s de 20 caracteres
+              </div>
+            </div>
+          </div>
+          <div class="form-group mb-4">
+            <label class="form-label" for="email">Email</label>
+            <input
+              type="email"
+              class="form-control"
+              name="email"
+              placeholder="nombre@email.com"
+              [(ngModel)]="form.email"
+              required
+              email
+              #email="ngModel"
+              [ngClass]="{ 'is-invalid': f.submitted && email.errors }"
+            />
+            <div class="invalid-feedback" *ngIf="email.errors && f.submitted">
+              <div *ngIf="email.errors['required']">Email es requerido</div>
+              <div *ngIf="email.errors['email']">
+                Email debe ser valido
+              </div>
+            </div>
+          </div>
+          <div class="form-group mb-4">
+            <label class="form-label" for="password">CONTRASE&Ntilde;A</label>
+            <input
+              type="password"
+              class="form-control"
+              name="password"
+              placeholder="Contrase&ntilde;a"
+              [(ngModel)]="form.password"
+              required
+              minlength="6"
+              #password="ngModel"
+              [ngClass]="{ 'is-invalid': f.submitted && password.errors }"
+            />
+            <div class="invalid-feedback" *ngIf="password.errors && f.submitted">
+              <div *ngIf="password.errors['required']">Contrase&ntilde;a es requerida</div>
+              <div *ngIf="password.errors['minlength']">
+                Contrase&ntilde;a debe tener al menos 6 caracteres
+              </div>
+            </div>
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="matchingPassword">CONFIRMA TU CONTRASE&Ntilde;A</label>
+            <input
+              type="password"
+              class="form-control"
+              name="matchingPassword"
+              placeholder="Contrase&ntilde;a"
+              [(ngModel)]="form.matchingPassword"
+              required
+              minlength="6"
+              #matchingPassword="ngModel"
+              [ngClass]="{ 'is-invalid': f.submitted && matchingPassword.errors }"
+            />
+            <div class="invalid-feedback" *ngIf="matchingPassword.errors && f.submitted">
+              <div *ngIf="matchingPassword.errors['required']">Contrase&ntilde;a es requerida</div>
+              <div *ngIf="matchingPassword.errors['minlength']">
+                Contrase&ntilde;a debe tener al menos 6 caracteres
+              </div>
+            </div>
+          </div>
+
+          <div class="d-grid gap-2">
+            <button class="btn btn-lg btn-primary" type="submit">REGÍSTRATE</button>
+          </div>
+          <div class="alert alert-warning" *ngIf="f.submitted && isSignUpFailed">
+            Registro fallido!<br />{{ errorMessage }}
+          </div>
+          <hr class="my-3 hr-text letter-spacing-2" data-content="OR">
+          <div class="d-grid gap-2">
+            <a class="btn btn btn-outline-primary btn-social"  (click)="fb_login()"href="{{ facebookURL }}"><i class="fa-2x fa-facebook-f fab btn-social-icon"> </i>CONECTATE <span class="d-none d-sm-inline">CON FACEBOOK</span></a>
+          </div>
+          <hr class="my-4">
+          <p class="text-center"><small class="text-muted text-center">Ya tienes cuenta? <a href="/login">Ingresa</a></small></p>
+          <p class="text-center"><small class="text-muted text-center">Consulta Política de Privacidad - Privacidad y Condiciones en <a href="/faqs">F.A.Q.s</a></small></p>
+        </form>
+        <a class="close-absolute me-md-5 me-xl-6 pt-5" href="/login">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="svg-icon " viewBox="0 0 16 16">
+            <path d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8 2.146 2.854Z"/>
+          </svg>
+        </a>
+      </div>
+      <div class="alert alert-success" *ngIf="isSuccessful">
+        Se registro correctamente. Ingresa para empezar a buscar a tu mejor amigo!
+      </div>
+    </div>
+    <div class="col-md-4 col-lg-6 col-xl-5 d-none d-md-block">
+      <!-- Image-->
+      <div class="bg-cover h-100 me-n3" style="background-image: url(assets/img/photo/SignUp.jpg);"></div>
+    </div>
+  </div>
+</div>
+</div>

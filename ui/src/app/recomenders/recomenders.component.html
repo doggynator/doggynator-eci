@@ -1,0 +1,79 @@
+<div *ngIf="isLoading" class="text-center overlay spinner-wrapper flex">
+  <div class="spinner-border text-warning my-auto" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
+<section class="py-1">
+  <div class="container">
+    <div class="row mb-2">
+      <div class="col-md-12" >
+        <p class="subtitle text-primary">Recomendaciones basados en tus "me gusta" </p>
+        <br />
+        <p class="text-justify" *ngIf="cards.length > 0">
+          Tu opinión es importante para nosotros. ¿Te ha gustado la recomendación que te hemos hecho? Puedes valorarla con un pulgar arriba o un pulgar abajo. Así nos ayudas a mejorar nuestro servicio. Gracias por tu colaboración.
+        </p>
+        <p class="text-justify" *ngIf="cards.length == 0">
+          No hay mas recomendaciones para mostrar, gracias por ayudarnos en este proyecto
+        </p>
+      </div>
+    </div>
+    <!--<div class="swiper-container guides-slider mx-n2 pt-5">-->
+      <!--<div class="swiper-pagination w-100 h-2 position-static"></div>-->
+      <!-- Additional required wrapper-->
+      <!--<div class="swiper-wrapper pb-5">-->
+        <!-- Slides-->
+        <div class="row mb-2" *ngIf="cards.length > 0">
+        <div *ngFor="let item of cards" class="swiper-slide h-auto px-2 col-12 col-md-3 g-3">
+          <div class="card card-poster hover-animate mb-4 mb-lg-0">
+            <div class="card h-100 border-0 shadow">
+              <div class="card-img-top overflow-hidden gradient-overlay h-auto w-auto">
+                <img class="img-fluid" src="{{item.imagePath}}"  >
+                <div class="card-img-overlay-bottom text-end">
+                  <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                      <a class="aherit position-relative z-index-40" (click)="onClick1(item.perroid)" style="opacity: 1;">
+                        <i id="thumbs-up-id-{{item.perroid}}" class="bi bi-hand-thumbs-up"></i>
+                      </a>
+                      <a class="aherit position-relative z-index-40" (click)="onClick0(item.perroid)" style="opacity: 1;">
+                        <i id="thumbs-down-id-{{item.perroid}}" class="bi bi-hand-thumbs-down"></i>
+                      </a>
+                    </div>
+                    <span class="card-text text-sm badge text-bg-light">{{item.edad}} Años</span>
+                  </div>
+                </div>
+                <div class="card-img-overlay-top text-end text-white">
+                  <span class="card-text text-sm text-uppercase"><b>{{item.nombre}}</b></span>
+                </div>
+              </div>
+              <div class="card-body d-flex align-items-center">
+                <div class="z-index-20">
+                  <p class="card-text text-sm text-black" >
+                    <b>Raza:</b> {{item.raza}} <br>
+                    <b>Tamaño:</b> {{item.tamano}} <br>
+                    <b>Sexo:</b> {{item.sexo}} <br>
+                    <b>Color:</b> {{item.color}} <br>
+                    <b>Pelaje:</b> {{item.pelaje}} <br>
+                    <b>Nivel de agresividad:</b> {{item.agresividad}} <br>
+                    <b>Puedo convivir con niños?</b> {{item.ninos}} <br>
+                    <b>Puedo convivir con otros animales?</b> {{item.otros}} <br>
+                    <b>Estoy esterilizado?</b> {{item.esterilizado}} <br>
+                    <b>Necesito actividad fisica?</b> {{item.actividad}} <br>
+                    <b>Fundacion:</b> {{item.fundacion}} <br>
+                    <b>Necesidades Especiales:</b> {{item.necesidades}} <br>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        <!--</div>-->
+      </div>
+    </div>
+    <!--</div>-->
+    <!-- <div class="col-md-8 mb-2">
+      <button type="button" class="btn btn-sm btn-outline-warning" (click)="moreRecommendation()">Mas</button>
+       <button type="button" class="btn btn-sm btn-danger" data-bs-toggle="popover" data-bs-title="Quieres mas?" data-bs-content="Aqui encontraras mas recomendaciones para ti.">Mas recomendaciones</button>
+    </div>
+    -->
+  </div>
+</section>
+

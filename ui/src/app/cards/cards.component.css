@@ -1,0 +1,11 @@
+.aherit {
+  display: inline-block;
+  width: 2.5rem;
+  height: 2.5rem;
+  text-align: center;
+  opacity: 0.5;
+  color: #fff;
+  border-radius: 50%;
+  background: #343a40;
+  line-height: 2.5rem;
+}

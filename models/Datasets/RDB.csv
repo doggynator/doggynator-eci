@@ -1,0 +1,486 @@
+"perroid","Nombre","Edad","Raza","tamano","sexo","color","pelaje","agresividad","Fundacion","atencionesespeciales","Necesidades","ninos","entrenado","esterilizado","perros","actividad","cluster"
+1,"Naranjo",2,"criollo","intermedio","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,1
+2,"Tomasa",11,"criollo","grande","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+3,"Oliver",2,"schnauzer","pequeno","macho","gris","corto","bajo","Peluditos con futuro",0,"No presenta",0,1,0,1,1,1
+4,"Guajo",7,"criollo","intermedio","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,0,2
+5,"Mara",9,"pitbull","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",1,"Fue de pelea/ Cuidar la piel ",1,1,0,1,0,2
+6,"No Informa",2,"pincher","pequeno","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+7,"Gallo",9,"labrador","grande","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+8,"Lucas",6,"criollo","grande","macho","cafe","corto","medio","Peluditos con futuro",0,"No presenta",0,0,1,1,0,3
+9,"Banana",2,"criollo","pequeno","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+10,"Ursula",7,"labrador","grande","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,0,2
+11,"Calima",6,"criollo","intermedio","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+12,"Africa",7,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+13,"Tostada",6,"criollo","mediano","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+14,"Estrella",6,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,0,1,1,1
+15,"Conde",4,"criollo","grande","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+16,"No Informa",10,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,0,2
+17,"Angela",10,"pitbull","mediano","hembra","amarillo","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+18,"Curuvo",6,"criollo","grande","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+19,"Lazy",2,"criollo","intermedio","hembra","mixto","largo","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+20,"No Informa",7,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+21,"Hercules",7,"criollo","grande","macho","mixto","largo","alto","Peluditos con futuro",0,"No presenta",0,0,0,0,1,3
+22,"No Informa",6,"pitbull","grande","macho","chocolate","corto","alto","Peluditos con futuro",0,"No presenta",0,1,1,0,1,3
+23,"No Informa",4,"criollo","intermedio","hembra","blanco","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,3
+24,"No Informa",4,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+25,"No Informa",7,"criollo","intermedio","hembra","blanco","largo","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+26,"No Informa",6,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+27,"No Informa",7,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+28,"No Informa",7,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,2
+29,"Hormiga",3,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+30,"No Informa",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+31,"No Informa",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+32,"No Informa",4,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+33,"No Informa",5,"criollo","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+34,"No Informa",6,"criollo","mediano","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+35,"No Informa",7,"criollo","intermedio","hembra","cafe","corto","medio","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+36,"No Informa",2,"pitbull","mediano","macho","blanco","corto","alto","Peluditos con futuro",0,"No presenta",1,0,1,1,1,3
+37,"Lombriz",7,"criollo","intermedio","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+38,"Abu",8,"beagle","mediano","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+39,"Sanba",8,"criollo","intermedio","hembra","negro","corto","medio","Peluditos con futuro",0,"No presenta",1,0,1,1,1,2
+40,"Fermin",10,"criollo","mediano","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,2
+41,"Guajira",5,"criollo","mediano","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+42,"No Informa",3,"pitbull","mediano","hembra","chocolate","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+43,"Paco",8,"criollo","intermedio","macho","blanco","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,0,0,2
+44,"Profe",8,"criollo","mediano","hembra","amarillo","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+45,"Selena",8,"criollo","mediano","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+46,"Pepe",8,"criollo","grande","macho","mixto","corto","bajo","Peluditos con futuro",1,"Ojo pendiente de cirujia",1,0,0,1,1,2
+47,"Pepa",5,"criollo","mediano","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+48,"No Informa",5,"criollo","grande","hembra","negro","corto","bajo","Peluditos con futuro",1,"Obeso",1,1,1,1,1,2
+49,"No Informa",7,"criollo","grande","macho","cafe","largo","bajo","Peluditos con futuro",1,"Obeso",1,1,1,1,1,2
+50,"No Informa",3,"criollo","grande","macho","cafe","largo","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,1,2
+51,"Risitas",4,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+52,"Cartagenita",4,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+53,"Amiga",4,"criollo","grande","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+54,"Loco",6,"criollo","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,0,1,3
+55,"No Informa",3,"criollo","grande","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+56,"No Informa",8,"criollo","intermedio","hembra","cafe","largo","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+57,"No Informa",2,"criollo","grande","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+58,"No Informa",2,"criollo","grande","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+59,"No Informa",2,"criollo","intermedio","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+60,"No Informa",3,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,1
+61,"No Informa",3,"criollo","grande","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+62,"No Informa",3,"criollo","mediano","hembra","mixto","largo","bajo","Peluditos con futuro",1,"Recien parida",1,0,0,1,1,1
+63,"No Informa",3,"criollo","pequeno","hembra","cafe","corto","bajo","Peluditos con futuro",1,"Recien parida",1,0,0,1,1,1
+64,"No Informa",3,"pitbull","mediano","hembra","negro","corto","bajo","Peluditos con futuro",1,"Recien parida/ enfermedad de piel",0,0,0,0,1,3
+65,"No Informa",0.3,"criollo","mediano","macho","bicolor","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+66,"Luna",4,"pitbull","intermedio","hembra","negro","corto","alto","Peluditos con futuro",1,"Fue de pelea/es agresiva",0,0,1,0,1,3
+67,"Estrella",3,"criollo","grande","hembra","negro","corto","bajo","Peluditos con futuro",1,"Con cachorros",1,0,0,1,0,2
+68,"No Informa",0.8,"criollo","mediano","macho","cafe","corto","bajo","Peluditos con futuro",1,"2 meses",1,0,0,1,1,1
+69,"No Informa",0.8,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",1,"2 messes",1,0,0,1,1,1
+70,"No Informa",4,"pitbull","intermedio","hembra","amarillo","corto","bajo","Peluditos con futuro",1,"Patica fracturada",1,0,1,1,1,1
+71,"No Informa",4,"pitbull","grande","macho","mixto","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+72,"No Informa",4,"criollo","intermedio","hembra","blanco","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+73,"No Informa",4,"criollo","intermedio","macho","bicolor","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+74,"No Informa",4,"criollo","intermedio","macho","blanco","corto","alto","Peluditos con futuro",1,"Problema de piel",0,0,1,0,1,3
+75,"No Informa",4,"criollo","intermedio","macho","bicolor","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+76,"No Informa",4,"criollo","intermedio","macho","mixto","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+77,"Mortadelo",2,"criollo","mediano","macho","cafe","largo","medio","Peluditos con futuro",0,"No presenta",0,0,1,1,1,3
+78,"No Informa",2,"criollo","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+79,"No Informa",5,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+80,"Mikaela",2,"pitbull","mediano","hembra","amarillo","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+81,"No Informa",5,"criollo","grande","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+82,"No Informa",5,"criollo","mediano","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,3
+83,"No Informa",5,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+84,"No Informa",3,"criollo","mediano","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,1
+85,"No Informa",5,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+86,"No Informa",8,"criollo","grande","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+87,"No Informa",2,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+88,"Oscar",2,"criollo","mediano","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+89,"Mateo",4,"criollo","mediano","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+90,"Amarilla con mateo",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+91,"Negrita con mateo",5,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+92,"Boxi",3,"bulldog","mediano","macho","blanco","corto","bajo","Peluditos con futuro",1,"Labio leporino",0,1,0,0,1,3
+93,"No Informa",4,"criollo","grande","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+94,"No Informa",8,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+95,"Greta",3,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+96,"Simba",8,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",1,"Problemas en la piel",1,0,1,1,1,2
+97,"No Informa",5,"criollo","intermedio","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+98,"La cagona",5,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",1,"Hace mucho popis",0,0,1,0,1,3
+99,"No Informa",7,"criollo","mediano","hembra","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+100,"No Informa",3,"criollo","intermedio","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+101,"Paloma",6,"pitbull","mediano","hembra","blanco","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+102,"No Informa",7,"pitbull","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+103,"No Informa",6,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+104,"No Informa",4,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+105,"No Informa",2,"criollo","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,1
+106,"No Informa",3,"pitbull","mediano","hembra","chocolate","corto","bajo","Peluditos con futuro",1,"Catarata en un ojo",0,0,1,0,1,3
+107,"Mani",6,"criollo","grande","macho","mixto","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+108,"No Informa",5,"criollo","mediano","hembra","negro","corto","alto","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+109,"No Informa",9,"criollo","mediano","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+110,"No Informa",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,1,3
+111,"Avena",2,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",1,"Miedosa",1,0,1,1,0,2
+112,"No Informa",8,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,0,0,2
+113,"Cindy",6,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+114,"Chuky",4,"criollo","intermedio","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,3
+115,"No Informa",9,"criollo","grande","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+116,"No Informa",7,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+117,"No Informa",2,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,1
+118,"No Informa",8,"criollo","intermedio","hembra","amarillo","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+119,"No Informa",1.2,"criollo","mediano","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,0,1,1,1
+120,"No Informa",8,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,0,0,3
+121,"Anabell",5,"criollo","intermedio","hembra","bicolor","corto","bajo","Peluditos con futuro",1,"Tiene un tornillo en la columna que impide cirugia de patica",0,0,1,1,0,3
+122,"No Informa",2,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+123,"Gretel",2,"criollo","mediano","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+124,"No Informa",3,"criollo","mediano","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+125,"No Informa",4,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+126,"No Informa",0.6,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",1,"Problemas en la piel",1,0,0,1,1,1
+127,"No Informa",6,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,0,1,3
+128,"No Informa",6,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,3
+129,"Lenguinegra",3,"criollo","grande","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,1,1
+130,"No Informa",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+131,"No Informa",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+132,"No Informa",5,"labrador","grande","hembra","chocolate","largo","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+133,"No Informa",4,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+134,"No Informa",4,"criollo","grande","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+135,"No Informa",6,"criollo","grande","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+136,"No Informa",3,"criollo","mediano","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+137,"No Informa",4,"criollo","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+138,"No Informa",5,"criollo","intermedio","hembra","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+139,"No Informa",3,"criollo","mediano","macho","mixto","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+140,"No Informa",6,"criollo","intermedio","macho","cafe","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,0,2
+141,"No Informa",4,"criollo","intermedio","hembra","negro","corto","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+142,"No Informa",3,"criollo","mediano","macho","tricolor","corto","bajo","Peluditos con futuro",0,"No presenta",1,1,1,1,0,2
+143,"No Informa",4,"labrador","intermedio","macho","negro","corto","bajo","Peluditos con futuro",0,"No presenta",0,0,1,1,0,2
+144,"No Informa",1,"pastor aleman","grande","macho","negro","largo","bajo","Peluditos con futuro",0,"No presenta",1,0,1,1,1,1
+145,"Mona",5,"criollo","mediano","hembra","bicolor","corto","bajo","Razas Unicas",1,"Cancer",1,0,1,0,0,3
+146,"Milagros",3,"pug","mediano","hembra","cafe","corto","bajo","Razas Unicas",1,"Problemas en la piel",1,0,1,0,0,3
+147,"Oreo",6,"criollo","grande","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,0,2
+148,"Max",5,"criollo","grande","macho","cafe","largo","bajo","Razas Unicas",1,"Problemas intestinales",1,0,1,1,0,2
+149,"Sancochito",1,"pincher","pequeno","macho","negro","corto","bajo","Razas Unicas",1,"Moquillo",1,0,0,0,0,1
+150,"Pluto",8,"labrador","grande","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+151,"Rogelio",8,"criollo","grande","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+152,"Morita",0.6,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",1,"Moquillo",1,0,1,0,1,3
+153,"Alma",5,"pitbull","mediano","hembra","mixto","corto","medio","Razas Unicas",0,"No presenta",0,1,1,0,1,3
+154,"Rot",6,"criollo","grande","macho","mixto","largo","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+155,"Zazu",0.4,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+156,"Jp",4,"criollo","mediano","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+157,"Slinky",0.6,"criollo","intermedio","macho","negro","corto","bajo","Razas Unicas",1,"Moquillo",1,0,1,0,1,1
+158,"Carolina",5,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+159,"Islenitos 1",0.8,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+160,"Islenitos 2",0.8,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+161,"Islenitos 3",0.8,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+162,"Islenitos 4",0.8,"criollo","mediano","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+163,"Islenitos 5",0.8,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+164,"No Informa",1,"criollo","mediano","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,0,1,1
+165,"Nucita",2,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+166,"Buju",0.9,"criollo","grande","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+167,"Tiki",0.9,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+168,"Caballo",6,"criollo","grande","macho","blanco","largo","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+169,"No Informa",5,"pitbull","mediano","hembra","mixto","corto","medio","Razas Unicas",0,"No presenta",0,1,1,0,1,3
+170,"No Informa",0.8,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+171,"Sparkie",0.4,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+172,"Media Vida",5,"criollo","grande","hembra","cafe","corto","bajo","Razas Unicas",1,"atropellada-recuperada",1,1,1,1,0,2
+173,"Rafaela",9,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",1,"Problemas en un ojo",1,1,1,0,0,2
+174,"Vaquita",0.6,"criollo","intermedio","hembra","blanco","corto","bajo","Razas Unicas",1,"Moquillo - parvo",1,0,0,0,1,1
+175,"Sam",7,"criollo","mediano","macho","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+176,"Mama",2,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+177,"Bela",2,"pitbull","grande","hembra","blanco","corto","medio","Razas Unicas",0,"No presenta",1,1,1,0,1,3
+178,"Islenitos 6",1.5,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+179,"Islenito 7",0.8,"criollo","mediano","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+180,"Islenito 8",1,"criollo","intermedio","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+181,"Islenito 9",0.7,"criollo","mediano","macho","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+182,"Paco",0.8,"criollo","intermedio","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+183,"Chicharron",1,"criollo","intermedio","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+184,"Mona",1,"criollo","intermedio","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+185,"Arequipe",0.9,"criollo","mediano","macho","chocolate","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+186,"Kanzi",1,"criollo","intermedio","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+187,"Shaggy",1,"criollo","intermedio","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+188,"Miel",0.8,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+189,"Campanilla",2,"labrador","grande","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+190,"No Informa",2,"criollo","mediano","macho","blanco","corto","bajo","Razas Unicas",1,"Enfermedad Respiratoria",1,0,1,1,1,1
+191,"Fifi",1.5,"criollo","intermedio","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+192,"chip",1.5,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",1,"Problemas en la piel",1,0,1,1,1,1
+193,"chop",2.5,"criollo","mediano","macho","negro","corto","bajo","Razas Unicas",1,"Problemas en la piel",1,0,1,1,1,1
+194,"Riu",6,"beagle","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+195,"Dulce",3,"criollo","grande","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+196,"Bachata",8,"criollo","grande","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,0,1,2
+197,"Tommy",2,"criollo","grande","macho","negro","largo","bajo","Razas Unicas",1,"Problema en una patica - recuperado",1,0,1,1,1,1
+198,"Chester",4,"criollo","grande","macho","cafe","corto","medio","Razas Unicas",0,"No presenta",1,1,1,0,1,3
+199,"Toby",5,"criollo","mediano","macho","blanco","largo","bajo","Razas Unicas",1,"otitis",1,0,1,0,1,3
+200,"Coral",3,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+201,"No Informa",1.5,"criollo","mediano","hembra","chocolate","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+202,"Towser",1.5,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+203,"Coronel",1.5,"criollo","mediano","macho","chocolate","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+204,"Pumba",0.7,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+205,"Pirata",1.7,"criollo","pequeno","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+206,"Manchas",1,"husky","grande","hembra","bicolor","largo","bajo","Razas Unicas",0,"No presenta",0,0,1,1,1,3
+207,"No Informa",1.5,"pitbull","mediano","hembra","chocolate","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+208,"No Informa",1,"criollo","grande","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+209,"No Informa",3,"criollo","intermedio","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+210,"Arya",4,"pitbull","mediano","hembra","chocolate","corto","medio","Razas Unicas",0,"No presenta",1,0,1,1,1,3
+211,"Perezas",0.7,"criollo","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+212,"Mari",3,"beagle","mediano","hembra","bicolor","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+213,"Logan",2,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",1,"atropellado - recuperado",1,0,1,1,1,1
+214,"No Informa",0.8,"border collie","mediano","hembra","gris","largo","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+215,"Rito",1.2,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",1,"Problemas respiratorios",1,0,1,1,0,2
+216,"Mona",1,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+217,"Dumbo",0.9,"criollo","mediano","macho","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+218,"No Informa",2,"salchicha","pequeno","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+219,"Lolita",1.5,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+220,"Pluto",2,"labrador","grande","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+221,"Panelita",2,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+222,"Cualito",9,"pitbull","mediano","macho","blanco","corto","bajo","Razas Unicas",1,"Problemas renales",1,1,1,1,0,2
+223,"Mango",4,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+224,"Pulguita",6,"labrador","grande","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+225,"Abeja",1,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,0,1,1,1
+226,"Bebe",0.3,"criollo","mediano","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+227,"Guajira",1.5,"criollo","intermedio","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+228,"No Informa",4,"pug","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+229,"Panela",1.5,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+230,"Nuci",1.5,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,0,1,1
+231,"Chorizo",7,"criollo","intermedio","macho","cafe","corto","bajo","Razas Unicas",1,"Problemas en la piel",1,1,1,1,0,2
+232,"Toby",4,"schnauzer","mediano","macho","blanco","largo","bajo","Razas Unicas",0,"No presenta",1,0,1,0,1,1
+233,"Filomena",0.9,"criollo","pequeno","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+234,"Dash",1,"labrador","intermedio","macho","negro","corto","bajo","Razas Unicas",1,"Problemas en sus patas delanteras",1,1,1,0,1,2
+235,"Kim",0.6,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",1,"Hemoparasitos - recuperada",1,0,1,0,1,3
+236,"No Informa",4,"labrador","grande","macho","negro","largo","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+237,"No Informa",8,"criollo","mediano","hembra","amarillo","largo","bajo","Razas Unicas",0,"No presenta",1,0,1,1,0,2
+238,"No Informa",2,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+239,"No Informa",7,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+240,"Feral",9,"criollo","grande","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+241,"Banano",4,"criollo","grande","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,0,1,2
+242,"Maxi",6,"pitbull","intermedio","macho","negro","corto","medio","Razas Unicas",0,"No presenta",1,1,1,0,1,3
+243,"No Informa",1.5,"labrador","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+244,"Salsa",3,"schnauzer","mediano","hembra","mixto","largo","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+245,"No Informa",0.8,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+246,"No Informa",0.8,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+247,"No Informa",0.8,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+248,"Gertu",12,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+249,"chiquis",0.7,"criollo","grande","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,0,1,1
+250,"Dug",0.9,"criollo","mediano","macho","amarillo","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+251,"No Informa",0.3,"criollo","mediano","hembra","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+252,"No Informa",0.3,"criollo","mediano","hembra","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+253,"No Informa",0.3,"criollo","pequeno","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+254,"Tequila",2,"criollo","intermedio","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+255,"Pumba",0.8,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+256,"No Informa",0.9,"criollo","grande","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+257,"No Informa",0.8,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+258,"No Informa",1.5,"criollo","mediano","macho","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+259,"No Informa",1.5,"border collie","mediano","hembra","negro","largo","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+260,"No Informa",6,"criollo","grande","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+261,"No Informa",3,"dalmata","intermedio","hembra","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,1
+262,"No Informa",0.5,"dalmata","mediano","hembra","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+263,"No Informa",8,"criollo","intermedio","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,0,2
+264,"Manguito",0.8,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+265,"Nena",5,"criollo","pequeno","hembra","gris","corto","bajo","Razas Unicas",1,"Cancer-TVT",1,1,1,1,0,2
+266,"Gertrudis",13,"criollo","mediano","hembra","gris","corto","bajo","Razas Unicas",1,"Cancer",1,1,1,1,0,2
+267,"Oli",1.5,"criollo","grande","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+268,"Elita",3,"pincher","pequeno","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+269,"No Informa",1,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+270,"No Informa",1,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+271,"Mystic",1.5,"criollo","mediano","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+272,"Rafita",2,"criollo","intermedio","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+273,"No Informa",3,"criollo","intermedio","macho","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+274,"No Informa",2,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+275,"No Informa",1,"criollo","mediano","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+276,"No Informa",1,"border collie","mediano","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+277,"No Informa",3,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+278,"No Informa",4,"criollo","grande","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+279,"No Informa",6,"criollo","pequeno","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+280,"No Informa",3,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+281,"No Informa",6,"labrador","intermedio","hembra","amarillo","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+282,"No Informa",1,"labrador","grande","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+283,"No Informa",1,"labrador","grande","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+284,"Lucky",3,"husky","grande","macho","blanco","largo","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+285,"Macarena",1,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+286,"Chester",3,"criollo","grande","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+287,"No Informa",2,"criollo","intermedio","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+288,"No Informa",4,"criollo","intermedio","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+289,"No Informa",8,"labrador","grande","macho","blanco","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,0,2
+290,"No Informa",6,"criollo","intermedio","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+291,"No Informa",4,"criollo","intermedio","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,1,1,1,1,2
+292,"No Informa",0.3,"criollo","grande","macho","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+293,"No Informa",0.3,"criollo","grande","hembra","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+294,"No Informa",0.3,"criollo","grande","macho","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,0,1,1,1
+295,"Amber",1,"criollo","mediano","hembra","cafe","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+296,"No Informa",0.6,"labrador","mediano","hembra","negro","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+297,"Maximiliano",5,"pitbull","mediano","macho","negro","corto","medio","Razas Unicas",0,"No presenta",1,0,1,0,1,3
+298,"Ardillita",7,"criollo","mediano","hembra","bicolor","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+299,"No Informa",4,"criollo","mediano","macho","mixto","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+300,"No Informa",2,"labrador","intermedio","macho","amarillo","corto","bajo","Razas Unicas",0,"No presenta",1,0,1,1,1,1
+301,"Orion",5,"criollo","intermedio","macho","mixto","largo","bajo","Criadero",0,"No presenta",1,1,0,1,1,1
+302,"Maya",2,"criollo","intermedio","hembra","mixto","largo","bajo","Criadero",0,"No presenta",1,1,0,1,1,1
+303,"Paloma",3,"husky","grande","hembra","blanco","corto","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+304,"Susy",9,"jack russel","mediano","hembra","mixto","corto","bajo","Criadero",0,"No presenta",1,1,1,1,0,2
+305,"Abuela",8,"bulldog","mediano","hembra","cafe","corto","bajo","Criadero",0,"No presenta",1,0,0,1,0,2
+306,"Valentino",3,"bulldog","mediano","macho","cafe","corto","medio","Criadero",0,"No presenta",1,0,1,0,0,3
+307,"Bombon",1,"criollo","intermedio","hembra","blanco","corto","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+308,"Estrellita",6,"shih tzu","pequeno","hembra","gris","corto","bajo","Criadero",0,"No presenta",1,0,0,1,0,1
+309,"Gaia",1,"pastor ovejero","intermedio","hembra","cafe","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+310,"Gomita",6,"shih tzu","pequeno","hembra","blanco","corto","bajo","Criadero",0,"No presenta",1,0,0,1,0,1
+311,"Milagros",5,"terranova","grande","hembra","chocolate","largo","bajo","Criadero",0,"No presenta",1,0,0,1,0,1
+312,"Bebe",0.9,"husky","grande","hembra","gris","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+313,"Choco",8,"bulldog","mediano","hembra","chocolate","corto","bajo","Criadero",0,"No presenta",1,0,0,1,0,2
+314,"Venus",1,"pastor ovejero","intermedio","hembra","gris","largo","bajo","Criadero",0,"No presenta",0,0,0,1,1,1
+315,"Nina",0.6,"san bernardo","grande","hembra","mixto","largo","alto","Criadero",0,"No presenta",1,0,0,1,0,1
+316,"Nena",2,"french poodle","mediano","hembra","chocolate","largo","bajo","Criadero",0,"No presenta",1,0,0,1,0,1
+317,"Dakota",2,"husky","grande","hembra","gris","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+318,"Apolo",7,"husky","grande","macho","gris","largo","medio","Criadero",0,"No presenta",1,1,0,0,1,2
+319,"Samanta",1.5,"terranova","grande","hembra","negro","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+320,"Moquita",2,"husky","grande","hembra","negro","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+321,"Estrella",1.8,"pastor aleman","grande","hembra","mixto","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+322,"Laika",0.6,"border collie","intermedio","hembra","negro","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+323,"Maya",2,"border collie","intermedio","hembra","negro","largo","bajo","Criadero",0,"No presenta",1,1,0,1,1,1
+324,"Luna",2,"bulldog","mediano","hembra","negro","corto","bajo","Criadero",0,"No presenta",1,0,0,1,0,1
+325,"Cornelio",3,"bulldog","mediano","macho","chocolate","corto","bajo","Criadero",0,"No presenta",1,0,0,0,0,3
+326,"Iris",2,"pastor ovejero","intermedio","hembra","negro","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+327,"Colla",5,"bulldog","mediano","hembra","mixto","corto","bajo","Criadero",0,"No presenta",1,0,1,1,1,1
+328,"Burbuja",0.7,"pastor ovejero","intermedio","hembra","gris","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+329,"Joaquin",7,"bulldog","mediano","macho","mixto","corto","bajo","Criadero",0,"No presenta",1,0,1,1,0,2
+330,"Sara",9,"akita","grande","hembra","mixto","corto","alto","Criadero",0,"No presenta",1,0,0,0,1,3
+331,"Brisa",1,"pastor ovejero","intermedio","hembra","negro","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+332,"Coffee",2,"pitbull","mediano","macho","amarillo","corto","medio","Criadero",0,"No presenta",1,0,0,0,1,3
+333,"Burbuja",0.7,"pastor ovejero","intermedio","hembra","gris","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+334,"Abril",3,"pomerania","pequeno","hembra","amarillo","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+335,"Noa",1,"criollo","mediano","macho","blanco","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+336,"No Informa",5,"yorkie","pequeno","macho","cafe","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+337,"Flora",3,"yorkie","pequeno","hembra","cafe","largo","bajo","Criadero",0,"No presenta",1,1,0,1,1,1
+338,"Jirijiri",3,"pomerania","pequeno","macho","blanco","largo","bajo","Criadero",0,"No presenta",1,0,0,1,0,1
+339,"Martina",2,"salchicha","pequeno","hembra","cafe","corto","medio","Criadero",0,"No presenta",1,0,0,0,1,3
+340,"Caspita",1.8,"bulldog","mediano","hembra","mixto","corto","alto","Criadero",0,"No presenta",1,0,0,0,1,3
+341,"Caspita",1.8,"bulldog","mediano","hembra","mixto","corto","alto","Criadero",1,"Quemadura en la espalda en encubadora cuando era bebe",1,0,0,0,1,3
+342,"Rochie",5,"pomerania","pequeno","hembra","gris","largo","bajo","Criadero",0,"No presenta",1,0,0,1,1,1
+343,"niche",2,"labrador","intermedio","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,1,1,1,1
+344,"Africa",0.8,"criollo","mediano","hembra","negro","largo","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+345,"Emilio Alberto",4,"schnauzer","pequeno","macho","negro","largo","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+346,"Felicia",1,"criollo","mediano","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,1,1
+347,"Frank Antonio",0.8,"labrador","grande","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,1,2
+348,"Maximiliano",0.5,"labrador","intermedio","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+349,"Negro Manuel",2,"labrador","intermedio","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,1,1
+350,"Rocio",3,"criollo","intermedio","hembra","negro","corto","medio","adopta un negrito",1,"Mandibula rota en recuperacion",1,0,1,0,0,3
+351,"Martina",9,"beagle","mediano","hembra","negro","corto","bajo","adopta un negrito",1,"Cataratas/problemas de piel",1,1,1,1,0,2
+352,"Juana Maria",2,"pitbull","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,1,1
+353,"Bali",0.2,"criollo","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+354,"Roma",0.2,"criollo","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+355,"Budapest",0.2,"criollo","intermedio","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+356,"Conga",0.2,"criollo","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+357,"Maui",0.2,"criollo","intermedio","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+358,"Onix Emilio",1,"labrador","intermedio","macho","negro","corto","bajo","adopta un negrito",1,"Problemas en una patica",1,0,0,1,1,1
+359,"Celia Cecilia",1.3,"labrador","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,1,1
+360,"Simon",0.8,"labrador","grande","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+361,"Salomon",0.8,"labrador","grande","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+362,"Mambo miguel",2,"criollo","mediano","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,0,2
+363,"Macarena",1.5,"criollo","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,1,1,1,1
+364,"Oliver Antonio",0.8,"criollo","mediano","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+365,"Chavela",3,"criollo","grande","hembra","negro","corto","medio","adopta un negrito",0,"No presenta",1,0,1,0,1,3
+366,"Maui de las flores",0.3,"criollo","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+367,"Carmencita",2,"criollo","mediano","hembra","negro","largo","bajo","adopta un negrito",0,"No presenta",1,1,1,1,0,2
+368,"Nacho pistacho",1,"criollo","grande","macho","negro","largo","bajo","adopta un negrito",0,"No presenta",1,0,1,1,1,1
+369,"Tono melao",0.2,"labrador","grande","macho","negro","largo","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+370,"Pepito pimienta",5,"criollo","mediano","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,1,1,1,0,2
+371,"Lola morena",0.2,"criollo","intermedio","hembra","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+372,"Gael petronio",0.3,"criollo","intermedio","macho","negro","corto","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+373,"Sultan adolfo",0.3,"pastor aleman","grande","macho","mixto","largo","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+374,"Toby alejandro",0.6,"criollo","grande","macho","negro","largo","bajo","adopta un negrito",0,"No presenta",1,0,0,1,1,1
+375,"Naco miguel",3,"schnauzer","mediano","macho","negro","largo","medio","adopta un negrito",0,"No presenta",1,0,1,0,1,3
+376,"Antonieta",12,"beagle","mediano","hembra","tricolor","corto","bajo","amanos adopta",1,"Problema en un ojito y presion arterial alta",1,1,1,1,0,2
+377,"Astro",10,"west highland","mediano","macho","blanco","largo","bajo","amanos adopta",1,"Colesterol alto + tiroides",1,1,1,1,0,2
+378,"Tolita",6,"criollo","intermedio","hembra","mixto","corto","bajo","amanos adopta",1,"Artrosis",1,1,1,1,0,2
+379,"Scoobe Doo",8,"labrador","intermedio","macho","cafe","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,2
+380,"Bizcochito",6,"pincher","pequeno","macho","negro","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,2
+381,"Negrita",5,"labrador","intermedio","hembra","negro","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,2
+382,"Granadilla",1,"criollo","intermedio","hembra","cafe","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,1
+383,"Panelita",1,"labrador","intermedio","hembra","cafe","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,1
+384,"Mulan",4,"yorkie","pequeno","hembra","cafe","largo","bajo","amanos adopta",1,"Anemia",0,0,1,1,1,1
+385,"Paquita",7,"yorkie","pequeno","hembra","cafe","largo","bajo","amanos adopta",1,"Anemia",0,0,1,1,0,2
+386,"Anna",3,"yorkie","pequeno","hembra","cafe","largo","bajo","amanos adopta",1,"Anemia",0,0,1,1,1,1
+387,"Ariel",3,"yorkie","pequeno","hembra","cafe","largo","bajo","amanos adopta",1,"Anemia",0,0,1,1,1,1
+388,"Buppha",2,"yorkie","pequeno","hembra","cafe","largo","bajo","amanos adopta",1,"Anemia",0,0,1,1,1,1
+389,"Nube",4,"pomerania","pequeno","hembra","blanco","largo","bajo","amanos adopta",1,"Anemia/un oido tapado",0,0,1,1,1,1
+390,"Sol",5,"pomerania","pequeno","hembra","blanco","largo","bajo","amanos adopta",1,"Anemia",0,0,1,1,1,3
+391,"Melao",0.3,"criollo","intermedio","macho","cafe","corto","bajo","amanos adopta",0,"No presenta",1,0,1,1,1,1
+392,"Candelaria",1,"yorkie","pequeno","hembra","cafe","largo","bajo","amanos adopta",0,"No presenta",1,0,1,1,1,1
+393,"Mona",4,"criollo","intermedio","hembra","cafe","corto","medio","amanos adopta",0,"No presenta",1,1,0,0,1,3
+394,"Berto",1,"criollo","mediano","macho","blanco","largo","bajo","amanos adopta",0,"No presenta",1,0,1,1,1,1
+395,"Granada",3,"labrador","mediano","hembra","cafe","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,1
+396,"Negrita",4,"labrador","mediano","hembra","negro","corto","bajo","amanos adopta",0,"No presenta",1,0,1,1,1,1
+397,"Eureka",5,"pitbull","intermedio","hembra","blanco","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,1,2
+398,"Geppeto",9,"pastor aleman","grande","macho","mixto","largo","bajo","amanos adopta",0,"No presenta",1,1,1,1,0,2
+399,"Cacharrito",4,"pincher","pequeno","macho","cafe","corto","bajo","amanos adopta",0,"No presenta",1,0,1,1,1,1
+400,"Tai",6,"criollo","intermedio","hembra","mixto","corto","bajo","amanos adopta",0,"No presenta",1,1,1,1,0,2
+401,"Chiquitin",6,"pincher","pequeno","macho","negro","corto","bajo","Casa de Lobos go go",1,"Cataratas",1,1,1,1,0,2
+402,"Judini",5,"labrador","intermedio","hembra","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+403,"Rocky",0.8,"criollo","mediano","macho","mixto","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+404,"Venus",5,"criollo","intermedio","hembra","cafe","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+405,"Salome",8,"labrador","grande","hembra","negro","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,0,1,0,2
+406,"Mona",6,"criollo","intermedio","hembra","cafe","corto","medio","Casa de Lobos go go",0,"No presenta",0,0,0,1,1,3
+407,"Manchas",8,"criollo","intermedio","macho","mixto","corto","bajo","Casa de Lobos go go",1,"obstruccion en glandula salivar",1,1,1,1,0,2
+408,"Saltarin",2,"labrador","intermedio","macho","blanco","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+409,"Pinguina",9,"criollo","pequeno","hembra","blanco","largo","bajo","Casa de Lobos go go",0,"No presenta",0,0,1,1,1,3
+410,"Conny",1,"criollo","intermedio","hembra","bicolor","largo","bajo","Casa de Lobos go go",1,"Problemas en la piel",1,0,1,1,1,1
+411,"Luna",3,"criollo","intermedio","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+412,"Barbas",8,"criollo","intermedio","macho","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,0,2
+413,"Cataluna",5,"criollo","grande","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+414,"Chase",0.5,"criollo","mediano","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+415,"Sugar",0.5,"criollo","mediano","hembra","negro","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+416,"Rony",11,"criollo","intermedio","macho","negro","corto","bajo","Casa de Lobos go go",1,"Problemas en la piel",1,1,1,1,1,2
+417,"Sam",4,"criollo","intermedio","macho","mixto","corto","bajo","Casa de Lobos go go",1,"Problemas en la piel",1,0,1,0,1,3
+418,"Sacha",7,"pastor aleman","grande","hembra","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+419,"Candy",6,"criollo","grande","hembra","blanco","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+420,"May",0.7,"criollo","intermedio","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+421,"Malangas",3,"criollo","intermedio","hembra","blanco","largo","bajo","Casa de Lobos go go",1,"Lesion en un ojo/ incontinencia/lesion en cadera",1,1,1,1,1,2
+422,"Miel",0.7,"criollo","intermedio","hembra","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+423,"Lamby",0.7,"criollo","intermedio","hembra","blanco","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+424,"Bluy",0.7,"criollo","intermedio","hembra","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+425,"Cloby",1,"criollo","intermedio","hembra","cafe","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,0,1
+426,"cusumbo",4,"criollo","intermedio","macho","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,0,2
+427,"wanda",14,"criollo","intermedio","hembra","blanco","corto","bajo","Casa de Lobos go go",1,"perdio un ojo",1,1,1,0,0,2
+428,"Eva",3,"criollo","intermedio","hembra","mixto","corto","medio","Casa de Lobos go go",0,"No presenta",1,0,1,0,1,3
+429,"Celeste",1,"criollo","intermedio","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+430,"No Informa",2,"criollo","mediano","macho","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+431,"No Informa",0.8,"criollo","mediano","macho","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+432,"No Informa",3,"beagle","mediano","hembra","tricolor","corto","medio","Casa de Lobos go go",0,"No presenta",0,0,1,0,1,3
+433,"Nube",4,"schnauzer","mediano","hembra","blanco","largo","medio","Casa de Lobos go go",0,"No presenta",0,0,1,0,1,3
+434,"Venus",3,"criollo","mediano","hembra","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+435,"Crespo",3,"criollo","mediano","hembra","cafe","corto","medio","Casa de Lobos go go",1,"oreja rasgada. antigua carnada para peleas",1,1,1,0,1,3
+436,"Rocky",1,"criollo","grande","macho","blanco","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+437,"Moncho",7,"criollo","grande","macho","chocolate","corto","medio","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+438,"Ojitos",4,"criollo","grande","macho","blanco","corto","bajo","Casa de Lobos go go",1,"no tiene una pata",1,1,1,1,0,2
+439,"Luna",8,"criollo","grande","hembra","mixto","corto","medio","Casa de Lobos go go",1,"Miedo a la polvora",1,1,1,0,0,2
+440,"Bocanegra",6,"pastor aleman","grande","hembra","cafe","largo","medio","Casa de Lobos go go",0,"No presenta",1,1,1,0,1,3
+441,"Thor",1,"criollo","grande","macho","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+442,"Pujo",1,"criollo","grande","macho","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+443,"Chocolate",6,"criollo","intermedio","hembra","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+444,"Flaca",8,"pastor aleman","grande","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+445,"Sultan",7,"criollo","grande","macho","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+446,"tigre",7,"labrador","grande","macho","negro","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+447,"Lucky",7,"criollo","mediano","macho","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+448,"Osita",5,"labrador","grande","hembra","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,0,2
+449,"Sanson",1,"labrador","intermedio","macho","amarillo","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+450,"Angie",7,"criollo","intermedio","hembra","negro","largo","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,0,2
+451,"Lassie",7,"malinois","grande","hembra","cafe","corto","bajo","Casa de Lobos go go",1,"Anemia",1,1,1,1,0,2
+452,"Gemela 1",4,"criollo","grande","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+453,"Gemela 2",4,"criollo","grande","hembra","mixto","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,0,1,1,1
+454,"Goku",3.5,"criollo","mediano","macho","mixto","largo","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+455,"Sacha",7,"labrador","grande","hembra","negro","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,0,2
+456,"Mocho",7,"labrador","grande","macho","negro","corto","bajo","Casa de Lobos go go",1,"no tiene una pata",1,1,0,1,0,2
+457,"Sussy",5,"criollo","grande","hembra","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,0,0,0,2
+458,"Comino",3,"labrador","intermedio","macho","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+459,"Linda",4,"criollo","intermedio","hembra","cafe","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,1,2
+460,"Chocolata",7,"pitbull","intermedio","hembra","chocolate","corto","medio","Casa de Lobos go go",0,"No presenta",1,1,1,0,1,3
+461,"Alexis",5,"criollo","grande","macho","tricolor","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,0,1,0,2
+462,"Nohelia",6,"labrador","grande","hembra","negro","corto","bajo","Casa de Lobos go go",0,"No presenta",1,1,1,1,0,2
+463,"Agatha",3,"labrador","grande","hembra","chocolate","corto","bajo","Casa de Lobos go go",0,"No presenta",1,0,1,1,1,1
+464,"Gotica",9,"criollo","grande","macho","cafe","largo","bajo","Proteccion animal",0,"No presenta",0,1,1,0,0,2
+465,"Humo ",10,"labrador","grande","macho","negro","corto","bajo","Proteccion animal",0,"No presenta",1,1,1,1,0,2
+466,"Lorenzo",8,"labrador","intermedio","macho","negro","corto","bajo","Proteccion animal",0,"No presenta",1,1,1,1,1,2
+467,"Luna Antonieta",10,"criollo","intermedio","hembra","bicolor","corto","bajo","Proteccion animal",0,"No presenta",1,1,1,1,0,2
+468,"Rocky bar",8,"pitbull","intermedio","macho","mixto","corto","bajo","Proteccion animal",0,"No presenta",0,1,1,0,1,3
+469,"Arturo Ocampo",5,"pitbull","intermedio","macho","mixto","corto","bajo","Proteccion animal",0,"No presenta",1,1,1,0,1,2
+470,"Catira",9,"gran danes","grande","hembra","negro","corto","bajo","Proteccion animal",0,"No presenta",0,1,1,1,1,2
+471,"Esparco",8,"pitbull","intermedio","macho","chocolate","corto","medio","Proteccion animal",0,"No presenta",0,1,1,1,1,3
+472,"Ethan",8,"pitbull","intermedio","macho","negro","corto","bajo","Proteccion animal",1,"Tiene un problemas en sus patitas delanteras",1,1,1,1,1,2
+473,"Tony san",9,"criollo","intermedio","macho","mixto","corto","bajo","Proteccion animal",1,"Nervioso con ruidos fuertes",1,1,1,1,1,2
+474,"Frodo",8,"bull terrier","intermedio","macho","blanco","corto","bajo","Proteccion animal",0,"No presenta",1,1,1,1,1,2
+475,"Tamy",6,"criollo","mediano","hembra","negro","corto","bajo","Proteccion animal",1,"Nervioso ",0,1,1,1,1,2
+476,"Candida",5,"criollo","mediano","hembra","blanco","corto","bajo","Proteccion animal",0,"No presenta",1,0,1,1,1,1
+477,"Mara betancourth",1,"criollo","grande","hembra","negro","corto","bajo","Proteccion animal",0,"No presenta",1,0,1,1,1,1
+478,"Chimuelo",0.8,"criollo","grande","macho","negro","corto","bajo","Proteccion animal",0,"No presenta",1,0,1,1,1,1
+479,"Maquiavelo",5,"labrador","grande","macho","negro","corto","bajo","Proteccion animal",1,"Amputado",0,1,1,0,0,2
+480,"Kempachi",2,"labrador","grande","macho","amarillo","corto","bajo","Proteccion animal",1,"Enfermedad articular",1,0,1,1,1,1
+481,"Regalo",11,"criollo","mediano","macho","mixto","corto","bajo","Proteccion animal",1,"No le gustan las caricias prolongadas/ Enfermedad Articular",1,1,1,0,0,2
+482,"Margarita",2,"pitbull","intermedio","hembra","blanco","corto","bajo","Proteccion animal",0,"No presenta",0,0,1,0,1,3
+483,"Zeus penuela",8,"labrador","grande","macho","negro","largo","bajo","Proteccion animal",1,"Enfermedad articular",0,1,1,0,0,2
+484,"Benjamin",7,"rottweiler","grande","macho","negro","corto","medio","Proteccion animal",1,"Enfermedad articular",0,1,1,0,0,3
+485,"Pimiento",9,"schnauzer","mediano","macho","gris","largo","bajo","Proteccion animal",1,"Enfermedad metabolica",1,0,1,1,0,2

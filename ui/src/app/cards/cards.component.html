@@ -1,0 +1,54 @@
+<div *ngIf="isLoading" class="text-center overlay spinner-wrapper flex">
+  <div class="spinner-border text-warning my-auto" role="status">
+    <span class="visually-hidden">Loading...</span>
+  </div>
+</div>
+<section class="py-1 bg-gray-100 shadow">
+  <div class="container">
+    <h1>Queremos saber mas a cerca de ti</h1>
+    <p class="lead mb-5">Lee atentamente las especificaciones del perrito, si te gustaría tenerlo como compañero de vida presiona el botón de "me gusta" ; si por alguna razón no desearías adoptarlos, presiona el botón de "no me gusta".</p>
+    <div id="rendomId" class="row mx-auto col-12 col-md-6 col-lg-6">
+  <div class="w-auto" data-marker-id="59c0c8e33b1527bfe2abaf92">
+  <div class="card h-100 border-0 shadow">
+    <div class="card-header ribbon">
+      <div class="ribbon ribbon-primary">{{edad}} Años</div>
+    </div>
+    <div class="card-img-top overflow-hidden gradient-overlay" height="500rem" width="500rem">
+      <img class="img-fluid" src="{{img}}" alt="{{nombre}}"/><a class="tile-link" href="#"></a>
+      <div class="card-img-overlay-bottom text-end">
+        <div class="z-index-20">
+          <h3 class="text-white text-shadow"><b>{{nombre}}</b></h3>
+        </div>
+        <div class="d-flex justify-content-between align-items-center">
+          <div class="badge badge-danger-light ms-1 mt-n1">{{fundacion}}</div>
+          <div>
+            <a class="aherit position-relative z-index-40" (click)="onClick(0)" style="opacity: 1;">
+              <i class="bi bi-hand-thumbs-down"></i>
+            </a>
+            <a class="aherit position-relative z-index-40" (click)="onClick(1)" style="opacity: 1;">
+              <i class="bi bi-hand-thumbs-up"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body d-flex align-items-center">
+      <div class="w-100">
+        <b>Raza:</b> {{raza}} <br>
+        <b>Tamaño:</b> {{tamano}} <br>
+        <b>Sexo:</b> {{sexo}} <br>
+        <b>Color:</b> {{color}} <br>
+        <b>Pelaje:</b> {{pelaje}} <br>
+        <b>Nivel de agresividad:</b> {{agresividad}} <br>
+        <b>Puedo convivir con niños?</b> {{ninos}} <br>
+        <b>Puedo convivir con otros animales?</b> {{otros}} <br>
+        <b>Estoy esterilizado?</b> {{esterilizado}} <br>
+        <b>Necesito actividad fisica?</b> {{actividad}} <br>
+        <b>Necesidades Especiales:</b> {{necesidades}} <br>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+</section>
